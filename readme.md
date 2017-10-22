@@ -17,8 +17,8 @@ repo นี้จะเป็นตัวอย่างการใช้งา
 
 >$ php artisan db:seed
 
-GraphQL : homestead/graphql 
-GraphQL Ui : homestead/graphiql 
+>$ GraphQL : homestead/graphql  
+>$ GraphQL Ui : homestead/graphiql 
 
  
 
