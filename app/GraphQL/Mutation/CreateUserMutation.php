@@ -37,6 +37,7 @@ class CreateUserMutation extends Mutation {
 				'type' => Type::string()
 			]
 		];
+		
 	}
 
 	public function resolve($root, $args)
